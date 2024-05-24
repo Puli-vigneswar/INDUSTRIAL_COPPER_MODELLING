@@ -10,11 +10,10 @@ Another area where the copper industry faces challenges is in capturing the lead
 skill take aways:
 
 exploratory data analysis 
-
 python scripting 
-
 streamlit 
-
 sklearn 
+data preprocessing
+
 
 
